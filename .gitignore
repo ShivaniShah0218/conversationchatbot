@@ -83,7 +83,7 @@ profile_default/
 ipython_config.py
 
 #Sample Files
-.pdf
+*.pdf
 
 
 
